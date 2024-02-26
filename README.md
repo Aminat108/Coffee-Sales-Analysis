@@ -29,11 +29,12 @@ EDA involved while exploring the data to answer questions, like:
 
 1. United states generates the most sales and revenue for the company.
 2. It can be deduced from the analysis that Arabica and the excelsa coffee types are the best selling coffee orders.
-3. The Restaurant's sale shows a flunctuating trend over the past years, there is a higher demand on the 1.0kg and 2.5kg coffee sizes.
+3. The Restaurant's sale shows a flunctuating trend over the past years. However, there is a higher demand on the 1.0kg and 2.5kg coffee sizes.
 
 ### Recommendations
 
 Based on the analysis, it is recommended that these actions are taken:
 - Focus on allocating more resources towards expanding and strengthening presence in the United States.
 - Invest in promoting Arabica and Excelsa coffee types through marketing efforts.
+- Ensure sufficient stock levels of the 1.0kg and 2.5kg sizes while minimizing excess inventory of less popular sizes. 
 
